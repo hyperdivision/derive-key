@@ -1,0 +1,26 @@
+{
+  "name": "derive-key",
+  "version": "0.0.0",
+  "description": "Derive a named key from a master key",
+  "main": "index.js",
+  "dependencies": {
+    "sodium-universal": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.10.2"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyperdivision/derive-key.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyperdivision/derive-key/issues"
+  },
+  "homepage": "https://github.com/hyperdivision/derive-key"
+}
