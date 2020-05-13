@@ -1,6 +1,6 @@
 {
   "name": "derive-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Derive a named key from a master key",
   "main": "index.js",
   "dependencies": {
